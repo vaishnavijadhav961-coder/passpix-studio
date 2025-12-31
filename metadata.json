@@ -1,0 +1,7 @@
+{
+  "name": "PassPix Studio",
+  "description": "Studio-quality passport photos at home with AI-powered editing, background removal, and costume changes.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
